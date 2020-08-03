@@ -1,0 +1,38 @@
+.purple-color{
+    color: #8845f4;
+}
+body {
+     font-family: sans-serif;
+     color: #777777;
+     line-height: 26px;
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+.side-img{
+    width: 50%;
+    padding-left: 25%;
+}
+
+<div class="half-width">
+    <img class="side-img" src="images/profile.png" alt="">
+</div>
+.primary-btn{
+    color: white;
+    background-color: #8845f4;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+}
+<a class="primary-btn" href="www.linkedin.com/in/jhankar/"> Hire Me </a>
+.primary-btn{
+    color: white;
+    background-color: #8845f4;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+h1{
+    font-size: 2.5em;
+}
+/* Add all your styles here */
